@@ -43,6 +43,4 @@ todo.txt
 
 assets/cypress.config.js
 
-/config/
-
 *.beam
